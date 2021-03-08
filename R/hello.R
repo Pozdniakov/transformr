@@ -18,4 +18,4 @@ hello <- function() {
   print("Hello, world!")
 }
 
-t
+"1"
